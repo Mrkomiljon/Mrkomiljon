@@ -26,5 +26,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrkomiljon&" alt="mrkomiljon" /></p>
 
 
-https://github.com/Mrkomiljon/Mrkomiljon/assets/92161283/5ac15b08-44ba-4eb1-85dd-e4eeb3558bd2
+
 
