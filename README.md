@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrkomiljon" alt="mrkomiljon" /></a> </p>
 
-- 🔭 I’m currently working on **Driven Vertual Human**
+- 🔭 I’m currently working on **Driven Virtual Human**
 
 - 📫 How to reach me **komiljon19950813@gamil.com**
 
