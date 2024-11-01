@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komiljon</h1>
+<h1 align="center">Hi 👋, Assalomu alaykum</h1>
 <h3 align="center">A passionate AI developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkomiljon&label=Profile%20views&color=0e75b6&style=flat" alt="mrkomiljon" /> </p>
@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **Driven Virtual Human**
 
-- 📫 How to reach me **komiljon19950813@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
