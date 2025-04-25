@@ -1,14 +1,19 @@
 <div id="header" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=25&color=667395&vCenter=true&width=250&height=30&lines=Komiljon+;Hi+I'm+Komiljon++:)++++" width=220 alt="name">
 </div>
-<h3 align="center">A passionate AI developer from Uzbekistan</h3>
+<h3 align="center">AI Developer | ML Engineer | Speech & NLP Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkomiljon&label=Profile%20views&color=0e75b6&style=flat" alt="mrkomiljon" /> </p>
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrkomiljon" alt="mrkomiljon" /></a> </p>--->
 
-- 🔭 I’m currently working on **Driven Virtual Human**
+### 🧩 **Current Interests**
+- 🗣️ Speech-to-Text (STT) & Text-to-Speech (TTS)
+- 🎧 AI-generated Audio Detection & Watermarking
+- 🤖 Virtual Avatars & Talking Heads
+- 📊 Real-time AI Inference and Optimization (Quantization, Pruning, Deployment)
 
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
